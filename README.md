@@ -1,6 +1,6 @@
-# <p align="center"> o7 Code CMDRs, I'm Domonic</p>
+# <p align="center"> o7 Code CMDRs</p>
 ###
-I'm a currently a DevOps Build Engineer with **6 years of experience** in cloud technologies. Before this I was in application improvement.  My passion lies in in automating deployment pipelines, optimizing scalable infrastructure to meet the demands of modern application development.  I have predominantly worked within the Azure ecosystem, but have also touch on the other cloud providers.
+My name is Domonmic, I'm a currently a DevOps Build Engineer with **6 years of experience** in cloud technologies. Before this I was in application improvement.  My passion lies in automating deployment pipelines, optimizing scalable infrastructure to meet the demands of modern application development.  I have predominantly worked within the Azure ecosystem, but have also touched on the other cloud providers.
 ###
 # Certifications & Skills
 ###
