@@ -6,7 +6,11 @@ My name is Domonic, I'm a currently a DevOps Build Engineer with **6 years of ex
 ###
 #### Certifications
 *Microsoft*<p>
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" height="100"> <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="100" height="100"> <p>
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" height="100">|<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="100" height="100"> 
+-|-
+Azure Fundamentals|Azure Developer Associate <p>
+
+
 *Amazon*<p>
 <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="100" height="100">
 #### Current Activities
