@@ -12,9 +12,12 @@ Azure Fundamentals|Azure Developer Associate <p>
 
 
 *Amazon*<p>
-<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="100" height="100">
+<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="100" height="100"><p>
+
+*GitHub*<p>
+<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100"><p>
 #### Current Activities
-Currently I am working on achieving my GitHub certifications, before going back to completing the Azure DeVops Engineer pathway.
+After just having completed my AZ-204 & GitHub Foundations certifications, I am going to take a little break, before moving onto the next step.
 ### Skills
 *Technologies*<p>
 ![Static Badge](https://img.shields.io/badge/Ansible-36454F?style=plastic&logo=Ansible) ![Static Badge](https://img.shields.io/badge/Azure-36454F?style=plastic&logo=Microsoft-Azure) ![Static Badge](https://img.shields.io/badge/Azure%20DevOps-36454F?style=plastic&logo=Azure%20Devops) ![Static Badge](https://img.shields.io/badge/Docker-36454F?style=plastic&logo=Docker) ![Static Badge](https://img.shields.io/badge/GitHub-36454F?style=plastic&logo=Github) ![Static Badge](https://img.shields.io/badge/Jenkins-36454F?style=plastic&logo=Jenkins) ![Static Badge](https://img.shields.io/badge/Kubernetes-36454F?style=plastic&logo=Kubernetes) ![Static Badge](https://img.shields.io/badge/Oracle-36454F?style=plastic&logo=Oracle) ![Static Badge](https://img.shields.io/badge/Postgresql-36454F?style=plastic&logo=Postgresql)
